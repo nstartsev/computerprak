@@ -1,6 +1,9 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
+    double a = 1;
+    double b = 1;
+    double c;
+    c = a + b;
+    std::cout<< a+b << std::endl;
 }
