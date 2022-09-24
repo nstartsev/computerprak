@@ -6,4 +6,5 @@ int main() {
     double c;
     c = a + b;
     std::cout<< a+b << std::endl;
+    std::cout<< 'ok' ;
 }
